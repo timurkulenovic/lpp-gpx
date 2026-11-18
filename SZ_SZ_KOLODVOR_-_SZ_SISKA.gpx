@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="LPP shema" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>LPP SŽ SŽ KOLODVOR - SŽ ŠIŠKA</name></metadata>
+  <trk>
+    <name>SŽ SŽ KOLODVOR - SŽ ŠIŠKA</name>
+    <trkseg>
+      <trkpt lat="46.057988" lon="14.513527"><ele>298</ele></trkpt>
+      <trkpt lat="46.057912" lon="14.513570"><ele>298</ele></trkpt>
+      <trkpt lat="46.057911" lon="14.513907"><ele>299</ele></trkpt>
+      <trkpt lat="46.057919" lon="14.514451"><ele>299</ele></trkpt>
+      <trkpt lat="46.057922" lon="14.514784"><ele>299</ele></trkpt>
+      <trkpt lat="46.057922" lon="14.515083"><ele>299</ele></trkpt>
+      <trkpt lat="46.057932" lon="14.515456"><ele>299</ele></trkpt>
+      <trkpt lat="46.057960" lon="14.515888"><ele>299</ele></trkpt>
+      <trkpt lat="46.057983" lon="14.516087"><ele>299</ele></trkpt>
+      <trkpt lat="46.057979" lon="14.516284"><ele>298</ele></trkpt>
+      <trkpt lat="46.057979" lon="14.516286"><ele>298</ele></trkpt>
+      <trkpt lat="46.057818" lon="14.516262"><ele>298</ele></trkpt>
+      <trkpt lat="46.057678" lon="14.516210"><ele>299</ele></trkpt>
+      <trkpt lat="46.057700" lon="14.515997"><ele>299</ele></trkpt>
+      <trkpt lat="46.057708" lon="14.515683"><ele>299</ele></trkpt>
+      <trkpt lat="46.057699" lon="14.515181"><ele>299</ele></trkpt>
+      <trkpt lat="46.057679" lon="14.514126"><ele>297</ele></trkpt>
+      <trkpt lat="46.057641" lon="14.512115"><ele>300</ele></trkpt>
+      <trkpt lat="46.057632" lon="14.511075"><ele>302</ele></trkpt>
+      <trkpt lat="46.057624" lon="14.510188"><ele>303</ele></trkpt>
+      <trkpt lat="46.057615" lon="14.509769"><ele>303</ele></trkpt>
+      <trkpt lat="46.057608" lon="14.509408"><ele>304</ele></trkpt>
+      <trkpt lat="46.057593" lon="14.508638"><ele>305</ele></trkpt>
+      <trkpt lat="46.057591" lon="14.508526"><ele>305</ele></trkpt>
+      <trkpt lat="46.057579" lon="14.507197"><ele>302</ele></trkpt>
+      <trkpt lat="46.057573" lon="14.506470"><ele>302</ele></trkpt>
+      <trkpt lat="46.057591" lon="14.506321"><ele>302</ele></trkpt>
+      <trkpt lat="46.057653" lon="14.505980"><ele>301</ele></trkpt>
+      <trkpt lat="46.057402" lon="14.505865"><ele>301</ele></trkpt>
+      <trkpt lat="46.057179" lon="14.505769"><ele>301</ele></trkpt>
+      <trkpt lat="46.056903" lon="14.505633"><ele>300</ele></trkpt>
+      <trkpt lat="46.056019" lon="14.505274"><ele>302</ele></trkpt>
+      <trkpt lat="46.055911" lon="14.505230"><ele>304</ele></trkpt>
+      <trkpt lat="46.054959" lon="14.504796"><ele>304</ele></trkpt>
+      <trkpt lat="46.054500" lon="14.504577"><ele>303</ele></trkpt>
+      <trkpt lat="46.054680" lon="14.504272"><ele>303</ele></trkpt>
+      <trkpt lat="46.055105" lon="14.503548"><ele>303</ele></trkpt>
+      <trkpt lat="46.055646" lon="14.502621"><ele>304</ele></trkpt>
+      <trkpt lat="46.055690" lon="14.502545"><ele>304</ele></trkpt>
+      <trkpt lat="46.056081" lon="14.502048"><ele>304</ele></trkpt>
+      <trkpt lat="46.056291" lon="14.501781"><ele>303</ele></trkpt>
+      <trkpt lat="46.056519" lon="14.501490"><ele>302</ele></trkpt>
+      <trkpt lat="46.056580" lon="14.501428"><ele>302</ele></trkpt>
+      <trkpt lat="46.056615" lon="14.501392"><ele>302</ele></trkpt>
+      <trkpt lat="46.057105" lon="14.500924"><ele>300</ele></trkpt>
+      <trkpt lat="46.057166" lon="14.500866"><ele>300</ele></trkpt>
+      <trkpt lat="46.057502" lon="14.500500"><ele>300</ele></trkpt>
+      <trkpt lat="46.057518" lon="14.500484"><ele>300</ele></trkpt>
+      <trkpt lat="46.057661" lon="14.500343"><ele>300</ele></trkpt>
+      <trkpt lat="46.058185" lon="14.499827"><ele>302</ele></trkpt>
+      <trkpt lat="46.058329" lon="14.499672"><ele>303</ele></trkpt>
+      <trkpt lat="46.059193" lon="14.498766"><ele>304</ele></trkpt>
+      <trkpt lat="46.059720" lon="14.498180"><ele>305</ele></trkpt>
+      <trkpt lat="46.059741" lon="14.498149"><ele>305</ele></trkpt>
+      <trkpt lat="46.059843" lon="14.498349"><ele>306</ele></trkpt>
+      <trkpt lat="46.060093" lon="14.498878"><ele>305</ele></trkpt>
+      <trkpt lat="46.060305" lon="14.499319"><ele>304</ele></trkpt>
+      <trkpt lat="46.060804" lon="14.500350"><ele>304</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
